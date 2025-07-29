@@ -36,14 +36,13 @@ Open index.html in your browser
 OR
 - Use Live Server in VS Code (Recommended)
   
-## 📁 Project Structure
+ ## 📁 Project Structure
+todo_HTML_CSS_Javascript/
 
-todo-app/
-│
-├── index.html       # UI structure
-├── script.js        # JavaScript logic
-├── README.md        # Project description
-└── screenshot.png   # Optional preview image
+├── index.html       
+├── script.js        
+├── README.md   
+└── screenshot.png  
 
 
 # 👩‍💻 Author
